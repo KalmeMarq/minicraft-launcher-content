@@ -1,1011 +1,969 @@
 {
-  "minicraftred": {
-    "versions": [
-      {
-        "id": "1.0.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftred/1.0.0.jar",
-        "size": 3913133
-      }
-    ]
-  },
-  "aircraft": {
-    "versions": [
-      {
-        "id": "a1.2.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.2.jar",
-        "size": 3337483
-      },
-      {
-        "id": "a1.2.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.3.jar",
-        "size": 41953281
-      },
-      {
-        "id": "a1.2.4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.4.jar",
-        "size": 42035424
-      },
-      {
-        "id": "a1.2.5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5.jar",
-        "size": 42050133
-      },
-      {
-        "id": "a1.2.5_t",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5_t.jar",
-        "size": 42047819
-      },
-      {
-        "id": "a1.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.3.jar",
-        "size": 34841883
-      },
-      {
-        "id": "b0.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.1.jar",
-        "size": 54299619
-      },
-      {
-        "id": "b0.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.2.jar",
-        "size": 55459773
-      },
-      {
-        "id": "b0.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.3.jar",
-        "size": 60630647
-      },
-      {
-        "id": "b0.4_1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_1.jar",
-        "size": 70566973
-      },
-      {
-        "id": "b0.4_2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_2.jar",
-        "size": 70795144
-      }
-    ]
-  },
-  "cthulhucraft": {
-    "versions": [
-      {
-        "id": "0.02a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.02a.jar",
-        "size": 3743426
-      },
-      {
-        "id": "0.03a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.03a.jar",
-        "size": 3743508
-      },
-      {
-        "id": "0.04a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.04a.jar",
-        "size": 3743543
-      },
-      {
-        "id": "0.05",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05.jar",
-        "size": 80999982
-      },
-      {
-        "id": "0.05_1a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_1a.jar",
-        "size": 3801206
-      },
-      {
-        "id": "0.05_2a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_2a.jar",
-        "size": 3813291
-      },
-      {
-        "id": "0.05_3a",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_3a.jar",
-        "size": 3863476
-      }
-    ]
-  },
-  "infinitytale": {
-    "versions": [
-      {
-        "id": "1.0.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.0.0.jar",
-        "size": 887494
-      },
-      {
-        "id": "1.1.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.1.0.jar",
-        "size": 1053106
-      }
-    ]
-  },
-  "megacraft": {
-    "versions": [
-      {
-        "id": "0.4.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.2.jar",
-        "size": 735922
-      },
-      {
-        "id": "0.4.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.3.jar",
-        "size": 743031
-      }
-    ]
-  },
-  "microcraft": {
-    "versions": [
-      {
-        "id": "1.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/microcraft/1.0.jar",
-        "size": 445321
-      }
-    ]
-  },
-  "minicraft": {
-    "versions": [
-      {
-        "id": "original",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraft/original.jar",
-        "size": 182203
-      }
-    ]
-  },
-  "minicraftplus": {
-    "versions": [
-      {
-        "id": "1.2_test",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.2_test.jar",
-        "size": 650379
-      },
-      {
-        "id": "1.3.1_test",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3.1_test.jar",
-        "size": 838678
-      },
-      {
-        "id": "1.3_test",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3_test.jar",
-        "size": 350570
-      },
-      {
-        "id": "1.5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.5.jar",
-        "size": 931228
-      },
-      {
-        "id": "1.6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.6.jar",
-        "size": 929342
-      },
-      {
-        "id": "1.7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.7.jar",
-        "size": 968759
-      },
-      {
-        "id": "1.8",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.8.jar",
-        "size": 996616
-      },
-      {
-        "id": "1.9.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.1.jar",
-        "size": 939666
-      },
-      {
-        "id": "1.9.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.2.jar",
-        "size": 737748
-      },
-      {
-        "id": "1.9.3-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3-dev2.jar",
-        "size": 738555
-      },
-      {
-        "id": "1.9.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3.jar",
-        "size": 747980
-      },
-      {
-        "id": "1.9.4-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev1.jar",
-        "size": 732760
-      },
-      {
-        "id": "1.9.4-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev3.jar",
-        "size": 717293
-      },
-      {
-        "id": "1.9.4-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev4.jar",
-        "size": 715364
-      },
-      {
-        "id": "1.9.4-dev5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev5.jar",
-        "size": 719187
-      },
-      {
-        "id": "1.9.4-dev6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev6.jar",
-        "size": 710703
-      },
-      {
-        "id": "1.9.4-dev7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev7.jar",
-        "size": 712413
-      },
-      {
-        "id": "1.9.4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4.jar",
-        "size": 730861
-      },
-      {
-        "id": "2.0.0-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev1.jar",
-        "size": 734136
-      },
-      {
-        "id": "2.0.0-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev2.jar",
-        "size": 734097
-      },
-      {
-        "id": "2.0.0-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev3.jar",
-        "size": 739936
-      },
-      {
-        "id": "2.0.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0.jar",
-        "size": 740070
-      },
-      {
-        "id": "2.0.1-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev1.jar",
-        "size": 741497
-      },
-      {
-        "id": "2.0.1-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev2.jar",
-        "size": 766645
-      },
-      {
-        "id": "2.0.1-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev3.jar",
-        "size": 768357
-      },
-      {
-        "id": "2.0.1-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev4.jar",
-        "size": 777751
-      },
-      {
-        "id": "2.0.1-dev5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev5.jar",
-        "size": 780143
-      },
-      {
-        "id": "2.0.1-dev6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev6.jar",
-        "size": 783951
-      },
-      {
-        "id": "2.0.1-dev7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev7.jar",
-        "size": 783988
-      },
-      {
-        "id": "2.0.1-dev8",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev8.jar",
-        "size": 786204
-      },
-      {
-        "id": "2.0.1-dev9",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev9.jar",
-        "size": 790124
-      },
-      {
-        "id": "2.0.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1.jar",
-        "size": 791481
-      },
-      {
-        "id": "2.0.2-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev1.jar",
-        "size": 790085
-      },
-      {
-        "id": "2.0.2-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev2.jar",
-        "size": 790717
-      },
-      {
-        "id": "2.0.2-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev3.jar",
-        "size": 792931
-      },
-      {
-        "id": "2.0.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2.jar",
-        "size": 792983
-      },
-      {
-        "id": "2.0.3-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev1.jar",
-        "size": 811957
-      },
-      {
-        "id": "2.0.3-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev2.jar",
-        "size": 816608
-      },
-      {
-        "id": "2.0.3-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev3.jar",
-        "size": 822854
-      },
-      {
-        "id": "2.0.3-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev4.jar",
-        "size": 2919217
-      },
-      {
-        "id": "2.0.3-dev5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev5.jar",
-        "size": 2919928
-      },
-      {
-        "id": "2.0.3-dev6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev6.jar",
-        "size": 2921374
-      },
-      {
-        "id": "2.0.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3.jar",
-        "size": 2921358
-      },
-      {
-        "id": "2.0.4-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev1.jar",
-        "size": 3032981
-      },
-      {
-        "id": "2.0.4-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev2.jar",
-        "size": 3073786
-      },
-      {
-        "id": "2.0.4-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev3.jar",
-        "size": 3075710
-      },
-      {
-        "id": "2.0.4-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev4.jar",
-        "size": 3077607
-      },
-      {
-        "id": "2.0.4-dev5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev5.jar",
-        "size": 3077867
-      },
-      {
-        "id": "2.0.4-dev6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev6.jar",
-        "size": 3081069
-      },
-      {
-        "id": "2.0.4-dev7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev7.jar",
-        "size": 3087237
-      },
-      {
-        "id": "2.0.4-dev8",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev8.jar",
-        "size": 3088068
-      },
-      {
-        "id": "2.0.4-dev9",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev9.jar",
-        "size": 3089176
-      },
-      {
-        "id": "2.0.4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4.jar",
-        "size": 3105850
-      },
-      {
-        "id": "2.0.5-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev1.jar",
-        "size": 3103259
-      },
-      {
-        "id": "2.0.5-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev2.jar",
-        "size": 3090174
-      },
-      {
-        "id": "2.0.5-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev3.jar",
-        "size": 3102751
-      },
-      {
-        "id": "2.0.5-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev4.jar",
-        "size": 3102834
-      },
-      {
-        "id": "2.0.5-dev5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev5.jar",
-        "size": 3102979
-      },
-      {
-        "id": "2.0.5-dev6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev6.jar",
-        "size": 3102631
-      },
-      {
-        "id": "2.0.5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5.jar",
-        "size": 3103521
-      },
-      {
-        "id": "2.0.6-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev1.jar",
-        "size": 3108863
-      },
-      {
-        "id": "2.0.6-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev2.jar",
-        "size": 3583358
-      },
-      {
-        "id": "2.0.6-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev3.jar",
-        "size": 3584916
-      },
-      {
-        "id": "2.0.6-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev4.jar",
-        "size": 3623615
-      },
-      {
-        "id": "2.0.6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6.jar",
-        "size": 3631416
-      },
-      {
-        "id": "2.0.7-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev1.jar",
-        "size": 3636858
-      },
-      {
-        "id": "2.0.7-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev2.jar",
-        "size": 4118289
-      },
-      {
-        "id": "2.0.7-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev3.jar",
-        "size": 4122604
-      },
-      {
-        "id": "2.0.7-dev4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev4.jar",
-        "size": 4135162
-      },
-      {
-        "id": "2.0.7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7.jar",
-        "size": 4685732
-      },
-      {
-        "id": "2.1.0-dev1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev1.jar",
-        "size": 3662024
-      },
-      {
-        "id": "2.1.0-dev2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev2.jar",
-        "size": 3661155
-      },
-      {
-        "id": "2.1.0-dev3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev3.jar",
-        "size": 3857793
-      },
-      {
-        "id": "dungeon_preview",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/dungeon_preview.jar",
-        "size": 914163
-      },
-      {
-        "id": "pre1.5_Test",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/pre1.5_Test.jar",
-        "size": 914163
-      }
-    ]
-  },
-  "minicraftsquared": {
-    "versions": [
-      {
-        "id": "1.0.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.0.0.jar",
-        "size": 4759805
-      },
-      {
-        "id": "1.1.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.1.0.jar",
-        "size": 4770473
-      },
-      {
-        "id": "1.2.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.2.0.jar",
-        "size": 5515282
-      },
-      {
-        "id": "1.4.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.4.0.jar",
-        "size": 5763721
-      },
-      {
-        "id": "1.5.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.5.0.jar",
-        "size": 5774701
-      },
-      {
-        "id": "1.6.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.6.0.jar",
-        "size": 5790773
-      },
-      {
-        "id": "1.7.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.7.0.jar",
-        "size": 5809824
-      },
-      {
-        "id": "1.8.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.8.0.jar",
-        "size": 7225409
-      },
-      {
-        "id": "1.9.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.9.0.jar",
-        "size": 7232727
-      }
-    ]
-  },
-  "miniventure": {
-    "versions": [
-      {
-        "id": "a1.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.1.jar",
-        "size": 18229627
-      },
-      {
-        "id": "a1.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.2.jar",
-        "size": 18223400
-      },
-      {
-        "id": "a2.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.1.jar",
-        "size": 18333106
-      },
-      {
-        "id": "a2.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.2.jar",
-        "size": 18356981
-      },
-      {
-        "id": "pa-1.0-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre1.jar",
-        "size": 12695753
-      },
-      {
-        "id": "pa-1.0-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre2.jar",
-        "size": 12709587
-      },
-      {
-        "id": "pa-1.0-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre3.jar",
-        "size": 11629130
-      },
-      {
-        "id": "pa-1.0-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre4.jar",
-        "size": 11631870
-      },
-      {
-        "id": "pa-1.0-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre5.jar",
-        "size": 11640706
-      },
-      {
-        "id": "pa-1.0-pre6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre6.jar",
-        "size": 11649081
-      },
-      {
-        "id": "pa-1.0-pre7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre7.jar",
-        "size": 11657180
-      },
-      {
-        "id": "pa-1.0-pre8",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre8.jar",
-        "size": 11669544
-      },
-      {
-        "id": "pa-1.0.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.1.jar",
-        "size": 12709587
-      },
-      {
-        "id": "pa-1.0",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.jar",
-        "size": 11669542
-      },
-      {
-        "id": "pa-1.1-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre1.jar",
-        "size": 12507293
-      },
-      {
-        "id": "pa-1.1-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre2.jar",
-        "size": 12517632
-      },
-      {
-        "id": "pa-1.1-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre3.jar",
-        "size": 12528956
-      },
-      {
-        "id": "pa-1.1-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre4.jar",
-        "size": 12531965
-      },
-      {
-        "id": "pa-1.1-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre5.jar",
-        "size": 12535839
-      },
-      {
-        "id": "pa-1.1-pre6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre6.jar",
-        "size": 12537886
-      },
-      {
-        "id": "pa-1.1-pre7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre7.jar",
-        "size": 12538941
-      },
-      {
-        "id": "pa-1.1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1.jar",
-        "size": 12538759
-      },
-      {
-        "id": "pa-1.2-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre1.jar",
-        "size": 12594126
-      },
-      {
-        "id": "pa-1.2-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre2.jar",
-        "size": 12601946
-      },
-      {
-        "id": "pa-1.2-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre3.jar",
-        "size": 12607780
-      },
-      {
-        "id": "pa-1.2-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre4.jar",
-        "size": 12614009
-      },
-      {
-        "id": "pa-1.2-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre5.jar",
-        "size": 12620436
-      },
-      {
-        "id": "pa-1.2-pre6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre6.jar",
-        "size": 12624723
-      },
-      {
-        "id": "pa-1.2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2.jar",
-        "size": 12624807
-      },
-      {
-        "id": "pa-1.3-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre1.jar",
-        "size": 12624807
-      },
-      {
-        "id": "pa-1.3-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre2.jar",
-        "size": 13622808
-      },
-      {
-        "id": "pa-1.3-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre3.jar",
-        "size": 13625353
-      },
-      {
-        "id": "pa-1.3-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre4.jar",
-        "size": 13628404
-      },
-      {
-        "id": "pa-1.3-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre5.jar",
-        "size": 13639232
-      },
-      {
-        "id": "pa-1.3-pre6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre6.jar",
-        "size": 13656142
-      },
-      {
-        "id": "pa-1.3-pre7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre7.jar",
-        "size": 13667675
-      },
-      {
-        "id": "pa-1.3-pre8",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre8.jar",
-        "size": 13674426
-      },
-      {
-        "id": "pa-1.3-pre9",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre9.jar",
-        "size": 13678972
-      },
-      {
-        "id": "pa-1.3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3.jar",
-        "size": 13683974
-      },
-      {
-        "id": "pa-1.4-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre1.jar",
-        "size": 26499288
-      },
-      {
-        "id": "pa-1.4-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre2.jar",
-        "size": 16041004
-      },
-      {
-        "id": "pa-1.4-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre3.jar",
-        "size": 16051232
-      },
-      {
-        "id": "pa-1.4-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre4.jar",
-        "size": 16056138
-      },
-      {
-        "id": "pa-1.4-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre5.jar",
-        "size": 16057224
-      },
-      {
-        "id": "pa-1.4-pre6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre6.jar",
-        "size": 16058221
-      },
-      {
-        "id": "pa-1.4-pre7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre7.jar",
-        "size": 16061270
-      },
-      {
-        "id": "pa-1.4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4.jar",
-        "size": 16063608
-      },
-      {
-        "id": "pa-1.5-pr6",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pr6.jar",
-        "size": 18059236
-      },
-      {
-        "id": "pa-1.5-pre1",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre1.jar",
-        "size": 17960698
-      },
-      {
-        "id": "pa-1.5-pre2",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre2.jar",
-        "size": 17984361
-      },
-      {
-        "id": "pa-1.5-pre3",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre3.jar",
-        "size": 17976002
-      },
-      {
-        "id": "pa-1.5-pre4",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre4.jar",
-        "size": 17979736
-      },
-      {
-        "id": "pa-1.5-pre5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre5.jar",
-        "size": 18037631
-      },
-      {
-        "id": "pa-1.5-pre7",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre7.jar",
-        "size": 18074689
-      },
-      {
-        "id": "pa-1.5",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5.jar",
-        "size": 18073559
-      }
-    ]
-  },
-  "mods": {
-    "versions": [
-      {
-        "id": "alecraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/alecraft.jar",
-        "size": 321094
-      },
-      {
-        "id": "betterminicraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/betterminicraft.jar",
-        "size": 466608
-      },
-      {
-        "id": "celeixen",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/celeixen.jar",
-        "size": 266915
-      },
-      {
-        "id": "creativemode",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creativemode.jar",
-        "size": 267083
-      },
-      {
-        "id": "creeper",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creeper.jar",
-        "size": 493513
-      },
-      {
-        "id": "extended",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/extended.jar",
-        "size": 310260
-      },
-      {
-        "id": "frostgiants",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/frostgiants.jar",
-        "size": 289513
-      },
-      {
-        "id": "godmode",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/godmode.jar",
-        "size": 189275
-      },
-      {
-        "id": "hackcraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/hackcraft.jar",
-        "size": 270395
-      },
-      {
-        "id": "happycraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/happycraft.jar",
-        "size": 186180
-      },
-      {
-        "id": "macrocraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/macrocraft.jar",
-        "size": 286666
-      },
-      {
-        "id": "magic",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/magic.jar",
-        "size": 268050
-      },
-      {
-        "id": "minicommands",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicommands.jar",
-        "size": 282594
-      },
-      {
-        "id": "minicraft-fly",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft-fly.jar",
-        "size": 270328
-      },
-      {
-        "id": "minicraftce",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftce.jar",
-        "size": 532144
-      },
-      {
-        "id": "minicraftci",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftci.jar",
-        "size": 291885
-      },
-      {
-        "id": "minicraftmo",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftmo.jar",
-        "size": 463528
-      },
-      {
-        "id": "minicrafttextures",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrafttextures.jar",
-        "size": 288342
-      },
-      {
-        "id": "minicraftx",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftx.jar",
-        "size": 297160
-      },
-      {
-        "id": "minicraft_delux",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_delux.jar",
-        "size": 785339
-      },
-      {
-        "id": "minicraft_rebuild",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_rebuild.jar",
-        "size": 266574
-      },
-      {
-        "id": "minicrate",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrate.jar",
-        "size": 472094
-      },
-      {
-        "id": "miniIsles",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/miniIsles.jar",
-        "size": 343705
-      },
-      {
-        "id": "minitextures",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minitextures.jar",
-        "size": 297927
-      },
-      {
-        "id": "moboverload",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/moboverload.jar",
-        "size": 463528
-      },
-      {
-        "id": "resizable",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/resizable.jar",
-        "size": 255423
-      },
-      {
-        "id": "respawn",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/respawn.jar",
-        "size": 311753
-      },
-      {
-        "id": "saveandload",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/saveandload.jar",
-        "size": 291947
-      },
-      {
-        "id": "shroomycraft",
-        "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/shroomycraft.jar",
-        "size": 185912
-      }
-    ]
-  }
+  "versions": [
+    {
+      "id": "minicraftred_1.0.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftred/1.0.0.jar",
+      "size": 3913133
+    },
+    {
+      "id": "aircraft_a1.2.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.2.jar",
+      "size": 3337483
+    },
+    {
+      "id": "aircraft_a1.2.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.3.jar",
+      "size": 41953281
+    },
+    {
+      "id": "aircraft_a1.2.4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.4.jar",
+      "size": 42035424
+    },
+    {
+      "id": "aircraft_a1.2.5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5.jar",
+      "size": 42050133
+    },
+    {
+      "id": "aircraft_a1.2.5_t",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.2.5_t.jar",
+      "size": 42047819
+    },
+    {
+      "id": "aircraft_a1.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/a1.3.jar",
+      "size": 34841883
+    },
+    {
+      "id": "aircraft_b0.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.1.jar",
+      "size": 54299619
+    },
+    {
+      "id": "aircraft_b0.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.2.jar",
+      "size": 55459773
+    },
+    {
+      "id": "aircraft_b0.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.3.jar",
+      "size": 60630647
+    },
+    {
+      "id": "aircraft_b0.4_1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_1.jar",
+      "size": 70566973
+    },
+    {
+      "id": "aircraft_b0.4_2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/aircraft/b0.4_2.jar",
+      "size": 70795144
+    },
+    {
+      "id": "cthulhucraft_0.02a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.02a.jar",
+      "size": 3743426
+    },
+    {
+      "id": "cthulhucraft_0.03a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.03a.jar",
+      "size": 3743508
+    },
+    {
+      "id": "cthulhucraft_0.04a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.04a.jar",
+      "size": 3743543
+    },
+    {
+      "id": "cthulhucraft_0.05",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05.jar",
+      "size": 80999982
+    },
+    {
+      "id": "cthulhucraft_0.05_1a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_1a.jar",
+      "size": 3801206
+    },
+    {
+      "id": "cthulhucraft_0.05_2a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_2a.jar",
+      "size": 3813291
+    },
+    {
+      "id": "cthulhucraft_0.05_3a",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/cthulhucraft/0.05_3a.jar",
+      "size": 3863476
+    },
+    {
+      "id": "infinitytale_1.0.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.0.0.jar",
+      "size": 887494
+    },
+    {
+      "id": "infinitytale_1.1.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/infinitytale/1.1.0.jar",
+      "size": 1053106
+    },
+    {
+      "id": "megacraft_0.4.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.2.jar",
+      "size": 735922
+    },
+    {
+      "id": "megacraft_0.4.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/megacraft/0.4.3.jar",
+      "size": 743031
+    },
+    {
+      "id": "microcraft_1.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/microcraft/1.0.jar",
+      "size": 445321
+    },
+    {
+      "id": "minicraft_original",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraft/original.jar",
+      "size": 182203
+    },
+    {
+      "id": "minicraftplus_1.2_test",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.2_test.jar",
+      "size": 650379
+    },
+    {
+      "id": "minicraftplus_1.3.1_test",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3.1_test.jar",
+      "size": 838678
+    },
+    {
+      "id": "minicraftplus_1.3_test",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.3_test.jar",
+      "size": 350570
+    },
+    {
+      "id": "minicraftplus_1.5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.5.jar",
+      "size": 931228
+    },
+    {
+      "id": "minicraftplus_1.6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.6.jar",
+      "size": 929342
+    },
+    {
+      "id": "minicraftplus_1.7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.7.jar",
+      "size": 968759
+    },
+    {
+      "id": "minicraftplus_1.8",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.8.jar",
+      "size": 996616
+    },
+    {
+      "id": "minicraftplus_1.9.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.1.jar",
+      "size": 939666
+    },
+    {
+      "id": "minicraftplus_1.9.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.2.jar",
+      "size": 737748
+    },
+    {
+      "id": "minicraftplus_1.9.3-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3-dev2.jar",
+      "size": 738555
+    },
+    {
+      "id": "minicraftplus_1.9.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.3.jar",
+      "size": 747980
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev1.jar",
+      "size": 732760
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev3.jar",
+      "size": 717293
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev4.jar",
+      "size": 715364
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev5.jar",
+      "size": 719187
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev6.jar",
+      "size": 710703
+    },
+    {
+      "id": "minicraftplus_1.9.4-dev7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4-dev7.jar",
+      "size": 712413
+    },
+    {
+      "id": "minicraftplus_1.9.4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/1.9.4.jar",
+      "size": 730861
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev1.jar",
+      "size": 734136
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev2.jar",
+      "size": 734097
+    },
+    {
+      "id": "minicraftplus_2.0.0-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0-dev3.jar",
+      "size": 739936
+    },
+    {
+      "id": "minicraftplus_2.0.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.0.jar",
+      "size": 740070
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev1.jar",
+      "size": 741497
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev2.jar",
+      "size": 766645
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev3.jar",
+      "size": 768357
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev4.jar",
+      "size": 777751
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev5.jar",
+      "size": 780143
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev6.jar",
+      "size": 783951
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev7.jar",
+      "size": 783988
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev8",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev8.jar",
+      "size": 786204
+    },
+    {
+      "id": "minicraftplus_2.0.1-dev9",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1-dev9.jar",
+      "size": 790124
+    },
+    {
+      "id": "minicraftplus_2.0.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.1.jar",
+      "size": 791481
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev1.jar",
+      "size": 790085
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev2.jar",
+      "size": 790717
+    },
+    {
+      "id": "minicraftplus_2.0.2-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2-dev3.jar",
+      "size": 792931
+    },
+    {
+      "id": "minicraftplus_2.0.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.2.jar",
+      "size": 792983
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev1.jar",
+      "size": 811957
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev2.jar",
+      "size": 816608
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev3.jar",
+      "size": 822854
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev4.jar",
+      "size": 2919217
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev5.jar",
+      "size": 2919928
+    },
+    {
+      "id": "minicraftplus_2.0.3-dev6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3-dev6.jar",
+      "size": 2921374
+    },
+    {
+      "id": "minicraftplus_2.0.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.3.jar",
+      "size": 2921358
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev1.jar",
+      "size": 3032981
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev2.jar",
+      "size": 3073786
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev3.jar",
+      "size": 3075710
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev4.jar",
+      "size": 3077607
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev5.jar",
+      "size": 3077867
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev6.jar",
+      "size": 3081069
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev7.jar",
+      "size": 3087237
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev8",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev8.jar",
+      "size": 3088068
+    },
+    {
+      "id": "minicraftplus_2.0.4-dev9",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4-dev9.jar",
+      "size": 3089176
+    },
+    {
+      "id": "minicraftplus_2.0.4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.4.jar",
+      "size": 3105850
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev1.jar",
+      "size": 3103259
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev2.jar",
+      "size": 3090174
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev3.jar",
+      "size": 3102751
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev4.jar",
+      "size": 3102834
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev5.jar",
+      "size": 3102979
+    },
+    {
+      "id": "minicraftplus_2.0.5-dev6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5-dev6.jar",
+      "size": 3102631
+    },
+    {
+      "id": "minicraftplus_2.0.5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.5.jar",
+      "size": 3103521
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev1.jar",
+      "size": 3108863
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev2.jar",
+      "size": 3583358
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev3.jar",
+      "size": 3584916
+    },
+    {
+      "id": "minicraftplus_2.0.6-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6-dev4.jar",
+      "size": 3623615
+    },
+    {
+      "id": "minicraftplus_2.0.6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.6.jar",
+      "size": 3631416
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev1.jar",
+      "size": 3636858
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev2.jar",
+      "size": 4118289
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev3.jar",
+      "size": 4122604
+    },
+    {
+      "id": "minicraftplus_2.0.7-dev4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7-dev4.jar",
+      "size": 4135162
+    },
+    {
+      "id": "minicraftplus_2.0.7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.0.7.jar",
+      "size": 4685732
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev1.jar",
+      "size": 3662024
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev2.jar",
+      "size": 3661155
+    },
+    {
+      "id": "minicraftplus_2.1.0-dev3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/2.1.0-dev3.jar",
+      "size": 3857793
+    },
+    {
+      "id": "minicraftplus_dungeon_preview",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/dungeon_preview.jar",
+      "size": 914163
+    },
+    {
+      "id": "minicraftplus_pre1.5_Test",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftplus/pre1.5_Test.jar",
+      "size": 914163
+    },
+    {
+      "id": "minicraftsquared_1.0.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.0.0.jar",
+      "size": 4759805
+    },
+    {
+      "id": "minicraftsquared_1.1.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.1.0.jar",
+      "size": 4770473
+    },
+    {
+      "id": "minicraftsquared_1.2.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.2.0.jar",
+      "size": 5515282
+    },
+    {
+      "id": "minicraftsquared_1.4.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.4.0.jar",
+      "size": 5763721
+    },
+    {
+      "id": "minicraftsquared_1.5.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.5.0.jar",
+      "size": 5774701
+    },
+    {
+      "id": "minicraftsquared_1.6.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.6.0.jar",
+      "size": 5790773
+    },
+    {
+      "id": "minicraftsquared_1.7.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.7.0.jar",
+      "size": 5809824
+    },
+    {
+      "id": "minicraftsquared_1.8.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.8.0.jar",
+      "size": 7225409
+    },
+    {
+      "id": "minicraftsquared_1.9.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/1.9.0.jar",
+      "size": 7232727
+    },
+    {
+      "id": "miniventure_a1.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.1.jar",
+      "size": 18229627
+    },
+    {
+      "id": "miniventure_a1.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a1.2.jar",
+      "size": 18223400
+    },
+    {
+      "id": "miniventure_a2.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.1.jar",
+      "size": 18333106
+    },
+    {
+      "id": "miniventure_a2.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/a2.2.jar",
+      "size": 18356981
+    },
+    {
+      "id": "miniventure_pa-1.0-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre1.jar",
+      "size": 12695753
+    },
+    {
+      "id": "miniventure_pa-1.0-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre2.jar",
+      "size": 12709587
+    },
+    {
+      "id": "miniventure_pa-1.0-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre3.jar",
+      "size": 11629130
+    },
+    {
+      "id": "miniventure_pa-1.0-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre4.jar",
+      "size": 11631870
+    },
+    {
+      "id": "miniventure_pa-1.0-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre5.jar",
+      "size": 11640706
+    },
+    {
+      "id": "miniventure_pa-1.0-pre6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre6.jar",
+      "size": 11649081
+    },
+    {
+      "id": "miniventure_pa-1.0-pre7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre7.jar",
+      "size": 11657180
+    },
+    {
+      "id": "miniventure_pa-1.0-pre8",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0-pre8.jar",
+      "size": 11669544
+    },
+    {
+      "id": "miniventure_pa-1.0.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.1.jar",
+      "size": 12709587
+    },
+    {
+      "id": "miniventure_pa-1.0",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.0.jar",
+      "size": 11669542
+    },
+    {
+      "id": "miniventure_pa-1.1-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre1.jar",
+      "size": 12507293
+    },
+    {
+      "id": "miniventure_pa-1.1-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre2.jar",
+      "size": 12517632
+    },
+    {
+      "id": "miniventure_pa-1.1-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre3.jar",
+      "size": 12528956
+    },
+    {
+      "id": "miniventure_pa-1.1-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre4.jar",
+      "size": 12531965
+    },
+    {
+      "id": "miniventure_pa-1.1-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre5.jar",
+      "size": 12535839
+    },
+    {
+      "id": "miniventure_pa-1.1-pre6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre6.jar",
+      "size": 12537886
+    },
+    {
+      "id": "miniventure_pa-1.1-pre7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1-pre7.jar",
+      "size": 12538941
+    },
+    {
+      "id": "miniventure_pa-1.1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.1.jar",
+      "size": 12538759
+    },
+    {
+      "id": "miniventure_pa-1.2-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre1.jar",
+      "size": 12594126
+    },
+    {
+      "id": "miniventure_pa-1.2-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre2.jar",
+      "size": 12601946
+    },
+    {
+      "id": "miniventure_pa-1.2-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre3.jar",
+      "size": 12607780
+    },
+    {
+      "id": "miniventure_pa-1.2-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre4.jar",
+      "size": 12614009
+    },
+    {
+      "id": "miniventure_pa-1.2-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre5.jar",
+      "size": 12620436
+    },
+    {
+      "id": "miniventure_pa-1.2-pre6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2-pre6.jar",
+      "size": 12624723
+    },
+    {
+      "id": "miniventure_pa-1.2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.2.jar",
+      "size": 12624807
+    },
+    {
+      "id": "miniventure_pa-1.3-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre1.jar",
+      "size": 12624807
+    },
+    {
+      "id": "miniventure_pa-1.3-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre2.jar",
+      "size": 13622808
+    },
+    {
+      "id": "miniventure_pa-1.3-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre3.jar",
+      "size": 13625353
+    },
+    {
+      "id": "miniventure_pa-1.3-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre4.jar",
+      "size": 13628404
+    },
+    {
+      "id": "miniventure_pa-1.3-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre5.jar",
+      "size": 13639232
+    },
+    {
+      "id": "miniventure_pa-1.3-pre6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre6.jar",
+      "size": 13656142
+    },
+    {
+      "id": "miniventure_pa-1.3-pre7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre7.jar",
+      "size": 13667675
+    },
+    {
+      "id": "miniventure_pa-1.3-pre8",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre8.jar",
+      "size": 13674426
+    },
+    {
+      "id": "miniventure_pa-1.3-pre9",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3-pre9.jar",
+      "size": 13678972
+    },
+    {
+      "id": "miniventure_pa-1.3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.3.jar",
+      "size": 13683974
+    },
+    {
+      "id": "miniventure_pa-1.4-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre1.jar",
+      "size": 26499288
+    },
+    {
+      "id": "miniventure_pa-1.4-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre2.jar",
+      "size": 16041004
+    },
+    {
+      "id": "miniventure_pa-1.4-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre3.jar",
+      "size": 16051232
+    },
+    {
+      "id": "miniventure_pa-1.4-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre4.jar",
+      "size": 16056138
+    },
+    {
+      "id": "miniventure_pa-1.4-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre5.jar",
+      "size": 16057224
+    },
+    {
+      "id": "miniventure_pa-1.4-pre6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre6.jar",
+      "size": 16058221
+    },
+    {
+      "id": "miniventure_pa-1.4-pre7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4-pre7.jar",
+      "size": 16061270
+    },
+    {
+      "id": "miniventure_pa-1.4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.4.jar",
+      "size": 16063608
+    },
+    {
+      "id": "miniventure_pa-1.5-pr6",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pr6.jar",
+      "size": 18059236
+    },
+    {
+      "id": "miniventure_pa-1.5-pre1",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre1.jar",
+      "size": 17960698
+    },
+    {
+      "id": "miniventure_pa-1.5-pre2",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre2.jar",
+      "size": 17984361
+    },
+    {
+      "id": "miniventure_pa-1.5-pre3",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre3.jar",
+      "size": 17976002
+    },
+    {
+      "id": "miniventure_pa-1.5-pre4",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre4.jar",
+      "size": 17979736
+    },
+    {
+      "id": "miniventure_pa-1.5-pre5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre5.jar",
+      "size": 18037631
+    },
+    {
+      "id": "miniventure_pa-1.5-pre7",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5-pre7.jar",
+      "size": 18074689
+    },
+    {
+      "id": "miniventure_pa-1.5",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/miniventure/pa-1.5.jar",
+      "size": 18073559
+    },
+    {
+      "id": "standalonemod_alecraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/alecraft.jar",
+      "size": 321094
+    },
+    {
+      "id": "standalonemod_betterminicraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/betterminicraft.jar",
+      "size": 466608
+    },
+    {
+      "id": "standalonemod_celeixen",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/celeixen.jar",
+      "size": 266915
+    },
+    {
+      "id": "standalonemod_creativemode",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creativemode.jar",
+      "size": 267083
+    },
+    {
+      "id": "standalonemod_creeper",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/creeper.jar",
+      "size": 493513
+    },
+    {
+      "id": "standalonemod_extended",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/extended.jar",
+      "size": 310260
+    },
+    {
+      "id": "standalonemod_frostgiants",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/frostgiants.jar",
+      "size": 289513
+    },
+    {
+      "id": "standalonemod_godmode",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/godmode.jar",
+      "size": 189275
+    },
+    {
+      "id": "standalonemod_hackcraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/hackcraft.jar",
+      "size": 270395
+    },
+    {
+      "id": "standalonemod_happycraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/happycraft.jar",
+      "size": 186180
+    },
+    {
+      "id": "standalonemod_macrocraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/macrocraft.jar",
+      "size": 286666
+    },
+    {
+      "id": "standalonemod_magic",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/magic.jar",
+      "size": 268050
+    },
+    {
+      "id": "standalonemod_minicommands",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicommands.jar",
+      "size": 282594
+    },
+    {
+      "id": "standalonemod_minicraft-fly",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft-fly.jar",
+      "size": 270328
+    },
+    {
+      "id": "standalonemod_minicraftce",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftce.jar",
+      "size": 532144
+    },
+    {
+      "id": "standalonemod_minicraftci",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftci.jar",
+      "size": 291885
+    },
+    {
+      "id": "standalonemod_minicraftmo",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftmo.jar",
+      "size": 463528
+    },
+    {
+      "id": "standalonemod_minicrafttextures",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrafttextures.jar",
+      "size": 288342
+    },
+    {
+      "id": "standalonemod_minicraftx",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraftx.jar",
+      "size": 297160
+    },
+    {
+      "id": "standalonemod_minicraft_delux",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_delux.jar",
+      "size": 785339
+    },
+    {
+      "id": "standalonemod_minicraft_rebuild",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicraft_rebuild.jar",
+      "size": 266574
+    },
+    {
+      "id": "standalonemod_minicrate",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minicrate.jar",
+      "size": 472094
+    },
+    {
+      "id": "standalonemod_miniIsles",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/miniIsles.jar",
+      "size": 343705
+    },
+    {
+      "id": "standalonemod_minitextures",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/minitextures.jar",
+      "size": 297927
+    },
+    {
+      "id": "standalonemod_moboverload",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/moboverload.jar",
+      "size": 463528
+    },
+    {
+      "id": "standalonemod_resizable",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/resizable.jar",
+      "size": 255423
+    },
+    {
+      "id": "standalonemod_respawn",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/respawn.jar",
+      "size": 311753
+    },
+    {
+      "id": "standalonemod_saveandload",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/saveandload.jar",
+      "size": 291947
+    },
+    {
+      "id": "standalonemod_shroomycraft",
+      "url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/mods/shroomycraft.jar",
+      "size": 185912
+    }
+  ]
 }
