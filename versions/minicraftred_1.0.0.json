@@ -1,0 +1,76 @@
+{
+  "arguments": {
+    "game": [
+      "--savedir",
+      "${game_directory}",
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "features": {
+              "is_fullscreen": true
+            }
+          }
+        ],
+        "value": "--fullscreen"
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "features": {
+              "use_debug": true
+            }
+          }
+        ],
+        "value": [
+          "--debug-log-time",
+          "--debug-log-thread",
+          "--debug-log-trace",
+          "--debug-filelog-full"
+        ]
+      }
+    ],
+    "jvm": [
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ],
+        "value": [
+          "-XstartOnFirstThread"
+        ]
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "arch": "x86"
+            }
+          }
+        ],
+        "value": "-Xss1M"
+      },
+      "-cp",
+      "${classpath}"
+    ]
+  },
+  "downloads": {
+    "client": {
+      "sha1": "",
+      "size": 0,
+      "url": ""
+    }
+  },
+  "id": "minicraftred_1.0.0",
+  "javaVersion": {
+    "majorVersion": 8
+  },
+  "libraries": [],
+  "mainClass": "minicraft.core.Game"
+}
