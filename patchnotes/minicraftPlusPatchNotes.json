@@ -1,19 +1,43 @@
 {
   "entries": [
     {
-      "id": "m7d8FC3rvsZphQwN9p2D",
-      "title": "Minicraft Plus 2.2.0",
-      "version": "minicraftplus_2.2.0",
+      "id": "HWmhb5GKpr10r4P514cW",
+      "title": "Minicraft Plus 2.1.3",
+      "version": "minicraftplus_2.1.3",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
-        "title": "Minicraft Plus 2.2.0"
+        "title": "Minicraft Plus 2.1.3"
       },
-      "body": "<h2>Additions</h2><ul><li>Quests and tutorial</li><li>Obsidian knight as the second boss</li><li>Limitation to inventories</li><li>Limitation to stackable items</li><li>4 new debug arguments</li><li>A toggle for HUD display</li><li>A toggle for simplified effect display</li><li>A new menu for creative mode</li><li>A few creative mode only items for tile placement</li></ul><h2>Changes</h2><ul><li>Improved the localization support</li><li>The display of world edit</li><li>The structure of resource pack</li></ul><h2>Bug Fixes</h2><ul><li>Fixed seed random problem</li></ul>"
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixed a crash when changing skins when you're already in a world, and made localization be loaded on first launch.</li></ul>"
+    },
+    {
+      "id": "kri79dZcG7B9bSJvHUCl",
+      "title": "Minicraft Plus 2.1.2",
+      "version": "minicraftplus_2.1.2",
+      "type": "release",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.1.2"
+      },
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixes a bug where some worlds would not load, because it attempts to check if the player is suited, even though suits were removed.</li></ul>"
+    },
+    {
+      "id": "BS3MYKUBRLk4PUdbuqq4",
+      "title": "Minicraft Plus 2.1.1",
+      "version": "minicraftplus_2.1.1",
+      "type": "release",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.1.1"
+      },
+      "body": "<p>This version fixes some game breaking errors. Fixes like spawning outside the map and non-functioning air wizard spawners</p>"
     },
     {
       "id": "YNtb0mPRdfNoONZ9kP90",
       "title": "Minicraft Plus 2.1.0",
       "version": "minicraftplus_2.1.0",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.1.0"
@@ -24,6 +48,7 @@
       "id": "4WkXdxFc18BlK3gEC1k7",
       "title": "Minicraft Plus 2.0.7",
       "version": "minicraftplus_2.0.7",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.7"
@@ -34,6 +59,7 @@
       "id": "tap8Y07g9xbc0EkFGNLz",
       "title": "Minicraft Plus 2.0.6",
       "version": "minicraftplus_2.0.6",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.6"
@@ -44,6 +70,7 @@
       "id": "Zyj2QVIHaFKLW4lTf29x",
       "title": "Minicraft Plus 2.0.5",
       "version": "minicraftplus_2.0.5",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.5"
@@ -54,6 +81,7 @@
       "id": "cpvEiL8mL3MWKnzlbcfJ",
       "title": "Minicraft Plus 2.0.4",
       "version": "minicraftplus_2.0.4",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.4"
@@ -64,6 +92,7 @@
       "id": "tOpUSXSlOcj1P7tm08ad",
       "title": "Minicraft Plus 2.0.3",
       "version": "minicraftplus_2.0.3",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.3"
@@ -71,9 +100,65 @@
       "body": "<h2>Added</h2><ul><li>Added support for dedicated servers! With a CLI OS, meaning an OS without a GUI. This allows for more compatibility, not to mention more resources being able to be devoted to the game.</li><li>Added various server options, and a command help system, for dedicated servers.</li><li>Added feature to save the last ip address you entered when trying to join a multiplayer server</li><li>Added more error messages when connecting</li><li>Added the ability to drop an item to the ground with Q and shift-Q (shift-q drops the whole stack)</li><li>Created an account system! you must now register on the playminicraft site to use multiplayer. Comes with offline mode.</li><li>Added an fps limiter</li><li>Added back and fixed knockbacks, after removing them since they didn't work how I wanted.</li></ul><h2>Changed</h2><ul><li>Made it so you can transfer single items to and from chests, with the drop key.</li><li>Made various optimizations to the code</li><li>Allowed torches to be placed on obsidian bricks</li></ul><h2>Fixed</h2><ul><li>Fixed item entity spawn positions and going through other tiles</li><li>Fixed bugs with creative inventory, so it always has all items.</li><li>Fixed issues with the pickup control in single player and multiplayer</li><li>Fixed multiplayer client saving with the account system.</li></ul>"
     },
     {
+      "id": "rz5MtV79Pkzb6Yg1l6Xi",
+      "title": "Minicraft Plus 2.0.3 Pre-Release 6",
+      "version": "minicraftplus_2.0.3-pre6",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.3 Pre-Release 6"
+      },
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixed some level generation bugs, and tile updates on servers.</li></ul>"
+    },
+    {
+      "id": "kveJopp4xfLZqnR2UUzh",
+      "title": "Minicraft Plus 2.0.3 Pre-Release 5",
+      "version": "minicraftplus_2.0.3-pre5",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.3 Pre-Release 5"
+      },
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixed some inventory and item drop bugs.</li></ul>"
+    },
+    {
+      "id": "M1RCXyQVHg7lzv2RafVH",
+      "title": "Minicraft Plus 2.0.3 Pre-Release 4",
+      "version": "minicraftplus_2.0.3-pre4",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.3 Pre-Release 4"
+      },
+      "body": "<h2>Additions</h2><ul><li>Added accounts</li></ul>"
+    },
+    {
+      "id": "d4DBQy8McEHb8tSDJpUD",
+      "title": "Minicraft Plus 2.0.3 Pre-Release 2",
+      "version": "minicraftplus_2.0.3-pre2",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.3 Pre-Release 2"
+      },
+      "body": "<h2>Additions</h2><ul><li>Added item dropping.</li></ul>"
+    },
+    {
+      "id": "2UCE5xYIdWP076ITDqTG",
+      "title": "Minicraft Plus 2.0.3 Pre-Release 1",
+      "version": "minicraftplus_2.0.3-pre1",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.3 Pre-Release 1"
+      },
+      "body": "<h2>Additions</h2><ul><li>Support for dedicated servers without a GUI.</li></ul>"
+    },
+    {
       "id": "gGdjKxEvJl6wwjsdJcEv",
       "title": "Minicraft Plus 2.0.2",
       "version": "minicraftplus_2.0.2",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.2"
@@ -84,6 +169,7 @@
       "id": "l17t62ObrVaXIW7yMAI0",
       "title": "Minicraft Plus 2.0.1",
       "version": "minicraftplus_2.0.1",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.1"
@@ -91,19 +177,76 @@
       "body": "<h2>Added</h2><ul><li>Added more super-secret debug powers... mua ha ha...</li><li>Added to F3 window: level mobcount + max mobcount, and name of current tile</li><li>Added multiplayer feature: when hosting a server, a new window opens up for you to play as any other player, though your settings will be saved so that your should be able to continue as normal if you load the world as single player again. The server window lets you view the players connected, and change world difficulty and such.</li><li>Added multiplayer feature: the inventory and such data for people connected to the server is saved in a seperate file along with the computer's MAC address, so if they connect with that computer again, their inventory and stats should be restored.</li></ul><h2>Changed</h2><ul><li>This version should be compatible with 1.8 save files.</li><li>Edited the mob spawning algorithm, so mobs should not spawn at such a crazy speed as before</li><li>Renovated Multiplayer! It should now be much less laggy. Still not quite tolerable, but... better.</li><li>Ensured that most all the normal world features work in multiplayer. However, I have not been able to do much testing with Client Player saves, so that might not work very well. Everything else should work, though; but the connection lag between computers may cause some wierd effects. Fixing this lag is my next goal.</li></ul><h2>Fixed</h2><ul><li>Arrows now appear in your inventory</li><li>Fixed crafting; correct number of items are used</li><li>Creepers shouldn't be able to blow up stairs anymore</li><li>Bed spawning should now work; once you sleep in a bed, you will always spawn from the place that you were standing right before you got in bed, unless that spot later becomes rock, or something else a player can't walk through. The bed does not have to remain where it is; you can destroy it, and you will continue to spawn in the spot described above.</li><li>Fixed Save folder for non-windows users. You may notice a strange folder called &quot;null&quot; in the same folder as the minicraft jar. Move the &quot;.playminicraft&quot; folder inside to your home directory, and it should recognize it again. It may be hidden due to the &quot;.&quot;</li></ul>"
     },
     {
+      "id": "ka5rvj82A5JjxpusBo1g",
+      "title": "Minicraft Plus 2.0.1 Pre-Release 6",
+      "version": "minicraftplus_2.0.1-pre6",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.1 Pre-Release 6"
+      },
+      "body": "<p>Fixed wait time again and edited debug statements</p>"
+    },
+    {
+      "id": "A5JDS6MnENfoq05V30bY",
+      "title": "Minicraft Plus 2.0.1 Pre-Release 5",
+      "version": "minicraftplus_2.0.1-pre5",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.1 Pre-Release 5"
+      },
+      "body": "<p>Tried to add player addition when not moving</p>"
+    },
+    {
       "id": "PnlbKFjEXRSz8ubjqpdo",
       "title": "Minicraft Plus 2.0.0",
       "version": "minicraftplus_2.0.0",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.0.0"
       },
-      "body": "<h2>Added</h2><ul><li>MULTIPLAYER MODE now supported! (dun, dun-dun-dun!)</li><ul><li>Well... kind of. I got one way to work, but it's super laggy.</li></ul></ul><h2>Fixed</h2><ul><li>You disappear from the level when you get in bed, as you should</li><li>you can now see the edges of the level</li><li>Crafting furniture no longer disappears upon loading a pre-existing world</li><li>Stackable item count decreases as it should</li></ul>"
+      "body": "<h2>Added</h2><ul><li>MULTIPLAYER MODE now supported! (dun, dun-dun-dun!)</li><ul><li>Well... kind of. I got one way to work, but it's super laggy.</li></ul></ul><h2>Fixed</h2><ul><li>You disappear from the level when you get in bed, as you should</li><li>You can now see the edges of the level</li><li>Crafting furniture no longer disappears upon loading a pre-existing world</li><li>Stackable item count decreases as it should</li></ul>"
+    },
+    {
+      "id": "54yteLVJOTjoGfjiaaRy",
+      "title": "Minicraft Plus 2.0.0 Pre-Release 1",
+      "version": "minicraftplus_2.0.0-pre1",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.0 Pre-Release 1"
+      },
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixed bottom and right level edges becoming grass</li></ul>"
+    },
+    {
+      "id": "KUFh3wIrv0MyNzuysbfl",
+      "title": "Minicraft Plus 2.0.0 Pre-Release 2",
+      "version": "minicraftplus_2.0.0-pre2",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.0 Pre-Release 2"
+      },
+      "body": "<p>The first semi-stable version of multiplayer. I sent pixels across. It was super laggy...</p>"
+    },
+    {
+      "id": "nlaKxSkSNwZx8z9AnvdI",
+      "title": "Minicraft Plus 2.0.0 Pre-Release 1",
+      "version": "minicraftplus_2.0.0-pre1",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.0.0 Pre-Release 1"
+      },
+      "body": "<p>The first release with something resembling multiplayer!</p>"
     },
     {
       "id": "xJ5asIdNuTxOuIsMPW9u",
       "title": "Minicraft Plus 1.9.4",
       "version": "minicraftplus_1.9.4",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.9.4"
@@ -111,9 +254,43 @@
       "body": "<h2>Added</h2><ul><li>Daylight now increases and decreases more smoothly; steadily goes from dark to light in the morning, and light to dark in the evening.</li><li>Added Instant Health Potion! Instantly refills up to 5 hearts.</li><li>Added missingTexture sprite.</li><li>Added some more help messages when trying do things that you might not know you can't do yet. (destroying hardrock, obsidian stair on lava level).</li><li>Added small tweak for creative mode: empty buckets will remain empty, so you can empty the ocean as much as you like. Full buckets remain full, as well.</li><li>You can now copy world saves.</li><li>Added another confirm dialog before deleting worlds.</li><li>Player score shown on-screen in score mode. TIP: as you probably don't know... you can unlock new time limits for score mode. unlock 10min by getting 1000 points in a 20min game, and unlock 2Hour by getting 100,000 points in a 1Hour game. (Hint: defeating the AirWizard gives you 100,000 points...)</li></ul><h2>Changes</h2><ul><li>Almost total revision of lighting; surface level now has lighting overlay sometimes, and the colors all around may be slightly different.</li><li>Changed death chest expire times; easy: 30min, norm: 10min, hard: 2min</li><li>Speed up sleeping game speed.</li><li>Prevented Airwizard from being removed during daily entity clear.</li><li>Increased Torch light radius; also, torches now work the same way on the surface as they do in the caves.</li><li>Changed the name of a couple items (was abbreviated).</li><li>Wool slows down all mobs except you.</li><li>Imposed a limit to the number of mobs that can spawn on a level, dependent on the level and the game difficulty.</li><li>Additional creative mode tweak: &quot;attacking&quot; mob spawner with hand changes the level of mob it spawns. Also, you can pick up spawners in creative mode.</li><li>Creative mode inventory remains full.</li><li>Key controls displayed on (hopefully) all menus will always be correct. ;)</li><li>Revised some key binding details to hopefully prevent inability to select anything. Also, added feature to reset all key bindings to default.</li></ul>"
     },
     {
+      "id": "dy0Aczszfwzji4ILguQu",
+      "title": "Minicraft Plus 1.9.4 Pre-Release 6",
+      "version": "minicraftplus_1.9.4-pre6",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 1.9.4 Pre-Release 6"
+      },
+      "body": "<h2>Bug Fixes</h2><ul><li>Fixed wool coloration</li></ul>"
+    },
+    {
+      "id": "1hBdwR65OKKLMcUyODDR",
+      "title": "Minicraft Plus 1.9.4 Pre-Release 5",
+      "version": "minicraftplus_1.9.4-pre5",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 1.9.4 Pre-Release 5"
+      },
+      "body": "<h2>Additions</h2><ul><li>Added save tip</li></ul>"
+    },
+    {
+      "id": "HtwDx5ebgw2nWVN6RXPz",
+      "title": "Minicraft Plus 1.9.4 Pre-Release 4",
+      "version": "minicraftplus_1.9.4-pre4",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 1.9.4 Pre-Release 4"
+      },
+      "body": "<h2>Changes</h2><ul><li>Implemented ITEM OVERHAUL</li></ul>"
+    },
+    {
       "id": "YgDp1qHheIiiiY9Qe2sP",
       "title": "Minicraft Plus 1.9.3",
       "version": "minicraftplus_1.9.3",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.9.3"
@@ -124,6 +301,7 @@
       "id": "hZOTsXg9oRtxKTMA7mYw",
       "title": "Minicraft Plus 1.9.2",
       "version": "minicraftplus_1.9.2",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.9.2"
@@ -134,6 +312,7 @@
       "id": "Oz278vddomjYNQOalsGD",
       "title": "Minicraft Plus 1.9.1",
       "version": "minicraftplus_1.9.1",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.9.1"
@@ -144,6 +323,7 @@
       "id": "ly9QHxarRDRqI2AeBNHs",
       "title": "Minicraft Plus 1.9.0",
       "version": "minicraftplus_1.9.0",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.9.0"
@@ -154,6 +334,7 @@
       "id": "kzxfMMg3Rq7nL3wTf8X0",
       "title": "Minicraft Plus 1.8.0",
       "version": "minicraftplus_1.8.0",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.8.0"
@@ -164,6 +345,7 @@
       "id": "Im6M6ODunpQpftAOJI1l",
       "title": "Minicraft Plus 1.7.0",
       "version": "minicraftplus_1.7.0",
+      "type": "release",
       "image": {
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 1.7.0"
