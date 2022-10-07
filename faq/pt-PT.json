@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "context": "Minicraft Plus",
+      "description": "<p>Eis as perguntas mais frequentes sobre Minicraft+ e algumas dicas sobre como resolver os problemas.</p>",
+      "qas": [
+        {
+          "id": "1Mg3VNXdVII1GBI55FEZ",
+          "question": "O jogo diz que preciso Java",
+          "answer": "<p>Descarregue Java em <a href=\"www.java.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.java.com</a> e instale para poder executar Minicraft+.</p>"
+        },
+        {
+          "id": "g0URpWafQZWYrfSRmF3b",
+          "question": "Como configurar um servidor para Minicraft+?",
+          "answer": "<p>Veja <a href=\"https://discord.com/channels/280723930942013440/693770499297116271\" target=\"_blank\" rel=\"noopener noreferrer\">😕|how-to-make-a-server</a>.</p>"
+        },
+        {
+          "id": "XbZZw3xv4v7hfZMDuoqB",
+          "question": "Eu quero encontrar mais informção sobre Minicraft+.",
+          "answer": "<p>Veja <a href=\"https://playminicraft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://playminicraft.com</a> para mais informções sobre o jogo.</p>"
+        },
+        {
+          "id": "IRetzvDjzVXgjeJKw4Z3",
+          "question": "Continuo a ter problemas ao iniciar o jogo.",
+          "answer": "<p>Se desligar o teu PC e voltar a ligar não resolver, por favor pergunta no <a href=\"https://discord.com/channels/280723930942013440/280723930942013440\" target=\"_blank\" rel=\"noopener noreferrer\">💬|minicraft-chat</a>, e esperamos que um membro do servidor possa ajudar.</p>"
+        }
+      ]
+    }
+  ]
+}
