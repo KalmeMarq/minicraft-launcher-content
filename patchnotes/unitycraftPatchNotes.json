@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "id": "HWmhb5GKpr10r4P514cM",
+      "title": "Unitycraft 0.0.1",
+      "version": "unitycraft_0.0.1",
+      "type": "release",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Unitycraft 0.0.1"
+      },
+      "body": "<p>Initial Unitycraft release for playtesting</p>"
+    }
+  ]
+}
