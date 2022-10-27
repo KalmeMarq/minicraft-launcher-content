@@ -1,5 +1,10 @@
 {
+  "version": 3,
   "minicraftPlus": {
+    "lastest": {
+      "release": "minicraftplus_2.1.3",
+      "beta": "minicraftplus_2.2.0-dev1"
+    },
     "versions": [
       {
         "id": "minicraftplus_2.2.0-dev1",
@@ -9,6 +14,21 @@
       }
     ]
   },
-  "minicraft": {},
-  "unitycraft": {}
+  "minicraft": {
+    "versions": []
+  },
+  "unitycraft": {
+    "lastest": {
+      "release": "unitycraft_0.0.1",
+      "beta": "unitycraft_0.0.1"
+    },
+    "versions": [
+      {
+        "id": "unitycraft_0.0.1",
+        "type": "release",
+        "releaseTime": "2022-10-11T14:29:30Z",
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/versions/unitycraft_0.0.1.json"
+      }
+    ]
+  }
 }
