@@ -1,6 +1,28 @@
 {
   "entries": [
     {
+      "id": "ZyIpSx1Lto1EnTAuwUov",
+      "title": "Minicraft Plus 2.2.0 Pre-Release 2",
+      "version": "minicraftplus_2.2.0-pre2",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.2.0 Pre-Release 2"
+      },
+      "body": "<h2>Additions</h2><ul><li>Added a standard PopupDisplay for all popups</li><li>Added a crash handler and a better look of dialog.</li><li>Added a simple ability for screenshots</li><li>Added dynamic for sounds</li><li>Added sand particle for sand</li><li>Added more support fonts</li><li>Added world-wide seed</li></ul><h2>Changes</h2><ul><li>Split the images of textures</li><li>Changed the UI of crash popup</li><li>Changed a better logging</li><li>Improved the localization support</li><ul><li>Updated the localization for displays and for parameterized localizations</li><li>Changed some localization keys into IDs instead of words themselves</li></ul><li>With optional flag `--savedir`, if present, no longer is appended an extra '.playminicraft/mods/Minecraft Plus' to it</li><li>Improved some textures</li><li>Restructured the resources</li><li>Enhanced the rendering system for sprites</li><ul><li>Added standard LinkedSprite, SpriteAnimation (also replaces the role of ConnectorSprite) for all sprite renderings</li><li>Removed ConnectorSprite for tiles, MobSprite for mobs (with more standard way)</li><li>Renamed SpriteSheet into MinicraftImage</li></ul><li>Slightly standardized all the resource handlers</li><ul><li>For localizations, sounds, textures, books</li><li>Does not rule out the possibility of addition of a standard resource manager</li></ul><li>Reapplied the role of seeds (the sameness with same seed)</li><li>Now renders the parent display as background.</li></ul><h2>Removals</h2><ul><li>Removed stepped sand texture</li></ul>"
+    },
+    {
+      "id": "kmXkoxvbe6sVjBRH8wPf",
+      "title": "Minicraft Plus 2.2.0 Pre-Release 1",
+      "version": "minicraftplus_2.2.0-pre1",
+      "type": "beta",
+      "image": {
+        "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
+        "title": "Minicraft Plus 2.2.0 Pre-Release 1"
+      },
+      "body": "<h2>Additions</h2><ul><li>Quests and tutorial</li><li>Obsidian knight as the second boss</li><li>Limitation to inventories</li><li>Limitation to stackable items</li><li>4 new debug arguments</li><li>A toggle for HUD display</li><li>A toggle for simplified effect display</li><li>A new menu for creative mode</li><li>A few creative mode only items for tile placement</li></ul><h2>Changes</h2><ul><li>Improved the localization support</li><li>Changed the display of world edit</li><ul><li>Removed another display for world edits</li></ul><li>Greatly improved the resource pack system</li><li><ul><li>The past versions of resource packs are unsupported</li><li>Changed the structure of resource pack</li><li>Improved the handling of skins</li></ul></li></ul><h2>Bug Fixes</h2><ul><li>Fixed seed random problem</li></ul>"
+    },
+    {
       "id": "HWmhb5GKpr10r4P514cW",
       "title": "Minicraft Plus 2.1.3",
       "version": "minicraftplus_2.1.3",
@@ -9,7 +31,7 @@
         "url": "https://github.com/KalmeMarq/minicraft-launcher-content/raw/main/images/patchnotes/minicraftplus.png",
         "title": "Minicraft Plus 2.1.3"
       },
-      "body": "<h2>Bug Fixes</h2><ul><li>Fixed a crash when changing skins when you're already in a world, and made localization be loaded on first launch.</li></ul>"
+      "body": "<h2>Removals</h2><ul><li>Removed option of changing skin in the options display because of a crash</li></ul><h2>Bug Fixes</h2><ul><li>Fixed localization not being loaded on first launch</li></ul>"
     },
     {
       "id": "kri79dZcG7B9bSJvHUCl",
@@ -232,7 +254,7 @@
       "body": "<p>The first semi-stable version of multiplayer. I sent pixels across. It was super laggy...</p>"
     },
     {
-      "id": "nlaKxSkSNwZx8z9AnvdI",
+      "id": "54yteLVJOTjoGfjiaaRy",
       "title": "Minicraft Plus 2.0.0 Pre-Release 1",
       "version": "minicraftplus_2.0.0-pre1",
       "type": "beta",
