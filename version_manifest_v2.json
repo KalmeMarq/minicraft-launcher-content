@@ -1206,6 +1206,16 @@
         }
       },
       {
+        "id": "minicraftsquared_2.7.0",
+        "type": "release",
+        "releaseTime": "2022-12-20T11:59:29Z",
+        "client": {
+          "url": "https://github.com/pelletsstarPL/Minicraft-squared/releases/download/v2.7.0/minicraft_squared-2.7.0.jar",
+          "fallback_url": "https://gitlab.com/KalmeMarq/minicraft-index/-/raw/main/minicraftsquared/2.7.0.jar",
+          "size": 8076918
+        }
+      },
+      {
         "id": "miniventure_a1.1",
         "type": "release",
         "releaseTime": "2019-06-25T01:27:47Z",
